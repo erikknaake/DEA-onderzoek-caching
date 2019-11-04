@@ -1,0 +1,7 @@
++je kunt de configuratie van de caches in een xml bestand zetten
++Je kunt een standaard cahce template maken en per key value type pair een specifieke maken
++Je moet opletten dat je in het xml bestand ook de package voor een datatype zet.
++Om Q2 en Q3 te kunnen toepassen, moeten gecachte classes Serializable implementeren
++voor disk storage moet een persitence directory worden aangewezen.
++Je kunt disk caching persistent of niet persistent maken.
++Er is een mogelijkheid om caches vast te zetten middels pinning
